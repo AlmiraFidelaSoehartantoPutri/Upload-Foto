@@ -1,0 +1,5 @@
+CREATE TABLE siswa (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nama VARCHAR(255) NOT NULL,
+    foto VARCHAR(255)
+);
